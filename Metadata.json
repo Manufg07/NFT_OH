@@ -1,0 +1,49 @@
+[
+  {
+    "description": " is a legendary NFT representing resilience and rebirth in the cosmos. This mythical creature soars through the stars, embodying the spirit of adventure and exploration. As a symbol of transformation, the Galactic Phoenix rewards its holder with exclusive in-game benefits, including access to special missions, unique abilities, and enhanced rewards..",
+    "external_url": "https://kba.ai/",
+    "image": "https://rose-peculiar-gayal-975.mypinata.cloud/ipfs/QmPehLcz6VfGJGosmYegN2yPhNScXoPvRChLCviN4cqtAi",
+    "name": "Galactic Phoenix",
+    "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Starfish"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Big"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Surprised"
+      },
+      {
+        "trait_type": "Level",
+        "value": 5
+      },
+      {
+        "trait_type": "Stamina",
+        "value": 1.4
+      },
+      {
+        "trait_type": "Personality",
+        "value": "Sad"
+      },
+      {
+        "display_type": "boost_number",
+        "trait_type": "Aqua Power",
+        "value": 40
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Stamina Increase",
+        "value": 10
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Generation",
+        "value": 2
+      }
+    ]
+  }
+]
